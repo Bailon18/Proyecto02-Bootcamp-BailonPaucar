@@ -61,7 +61,7 @@ Si deseas ejecutar los microservicios localmente, sigue estos pasos:
    
    ```
 
-2. Configura las bases de datos locales en `application.yml` para `TransactionMS`, `CustomerMS` y `AccountMS` . No es necesario cambiar la configuración de bases de datos se utilizas las bases de datos en Railway.
+2. Configura las bases de datos locales en el archivo application.yml para los microservicios TransactionMS, CustomerMS y AccountMS. Si prefieres utilizar las bases de datos en Railway, no es necesario modificar la configuración.
 
 3. Descomenta las siguientes configuraciones para habilitar la ejecución local:
 
