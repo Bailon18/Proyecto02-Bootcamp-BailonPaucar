@@ -20,10 +20,12 @@ El repositorio incluye los siguientes diagramas:
 ### Microservicios y Servicios
 El sistema está compuesto por cuatro servicios independientes:
 
-1. **TransactionMS** - [Repositorio de AccountMS](https://github.com/Bailon18/transaction-ms)
-2. **CustomerMS** - [Repositorio de CustomerMS](https://github.com/Bailon18/customer-ms)
-3. **AccountMS** - [Repositorio de AccountMS](https://github.com/Bailon18/account-ms)
-4. **Eureka Server** - [Repositorio de Eureka Server](https://github.com/Bailon18/eureka-server)
+
+1. **TransactionMS** - [Click aquí](https://github.com/Bailon18/transaction-ms)
+2. **CustomerMS** - [Click aquí](https://github.com/Bailon18/customer-ms)
+3. **AccountMS** - [Click aquí](https://github.com/Bailon18/account-ms)
+4. **Eureka Server** - [Click aquí](https://github.com/Bailon18/eureka-server)
+
 
 ### Base de Datos
 Cada microservicio se conecta a su propia base de datos MySQL alojada en Railway. Las configuraciones ya están predefinidas y no es necesario realizar ajustes adicionales para la conexión a la base de datos.
@@ -31,10 +33,12 @@ Cada microservicio se conecta a su propia base de datos MySQL alojada en Railway
 ## Implementación en la Nube
 Los microservicios están desplegados en Railway con la documentación de cada servicio disponible a través de Swagger, por lo que pueden ser testeados directamente en la nube utilizando los siguientes enlaces:
 
-- **TransactionMS en la nube**: [TransactionMS Deployment](https://transaction-ms-production.up.railway.app/swagger-ui/index.html)
-- **CustomerMS en la nube**: [CustomerMS Deployment](https://account-ms-production.up.railway.app/swagger-ui/index.html)
-- **AccountMS en la nube**: [AccountMS Deployment](https://account-ms-production.up.railway.app/swagger-ui/index.html)
-- **Eureka Server en la nube**: [Eureka Server Deployment](https://euraka-server-production.up.railway.app/)
+
+- **TransactionMS en la nube**: [Click aquí](https://transaction-ms-production.up.railway.app/swagger-ui/index.html)
+- **CustomerMS en la nube**: [Click aquí](https://account-ms-production.up.railway.app/swagger-ui/index.html)
+- **AccountMS en la nube**: [Click aquí](https://account-ms-production.up.railway.app/swagger-ui/index.html)
+- **Eureka Server en la nube**: [Click aquí](https://euraka-server-production.up.railway.app/)
+
 
 
 ## Ejecución Local
